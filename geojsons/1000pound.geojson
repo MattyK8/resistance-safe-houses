@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "1000 pound bend",
+        "address": "little lonsdale street",
+        "contibutor": "mark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -215.03917694091794,
+          -37.811411388625636
+        ]
+      }
+    }
+  ]
+}
